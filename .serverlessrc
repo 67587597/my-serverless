@@ -1,0 +1,24 @@
+{
+  "userId": "auth0|5b66add602b6ed28f5d507ff",
+  "frameworkId": "5d1fbf20-9899-11e8-803f-c17cd704a410",
+  "trackingDisabled": false,
+  "meta": {
+    "created_at": 1533464509,
+    "updated_at": 1533496379
+  },
+  "users": {
+    "auth0|5b66add602b6ed28f5d507ff": {
+      "userId": "auth0|5b66add602b6ed28f5d507ff",
+      "name": "s.a-95-a.s@hotmail.com",
+      "email": "s.a-95-a.s@hotmail.com",
+      "username": "sondos",
+      "dashboard": {
+        "refreshToken": "FoVJ-wq_JXiuC-fiOAmCcJmGFp1Ds7GolUa2ju5xRDEcp",
+        "accessToken": "3hYPN127wnkBNlNz6U3ZIE-OmWhGNhjT",
+        "idToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik56azVNREl5TVRnNFJqWTBORGswT0VJM1JrRXpORGN4UmtVMU1FWXdNemczT1VKQlFqRTBNZyJ9.eyJuaWNrbmFtZSI6InMuYS05NS1hLnMiLCJuYW1lIjoicy5hLTk1LWEuc0Bob3RtYWlsLmNvbSIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9kZGEzNzUzMTI5NmM5MmJlZjNhNjU1NjU3MDc0NjgyMj9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRnMucG5nIiwidXBkYXRlZF9hdCI6IjIwMTgtMDgtMDVUMTk6MTI6MzQuMzQwWiIsImVtYWlsIjoicy5hLTk1LWEuc0Bob3RtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL3NlcnZlcmxlc3NpbmMuYXV0aDAuY29tLyIsInN1YiI6ImF1dGgwfDViNjZhZGQ2MDJiNmVkMjhmNWQ1MDdmZiIsImF1ZCI6IllBSE9HOHBhcGIxdGtyTHR0TlZvVk9TczRZTE9qck5qIiwiaWF0IjoxNTMzNDk2MzY1LCJleHAiOjE1MzM1MzIzNjV9.jqWeYwXSKmVYEMrBYOJm-8vLjETHd0-WTmMZvuE-UdJi3V7W1KmH19-tZoyToI471ynyIEhsqrbn_bilUMxOhqLndozNTip-BuyhqQZr-JEJNZuSeFxdaaaSWCvfjjM0FIfFHKQ4HCn9dzagHitwlUs108Tu8LA8SBs_BdQKWcnvO0x4FcrkTO5a4xkAI1mwx7IUAUc1lwhJ6EfjIgFRExzZJ4mms5yIs2Cbstc6aBWqy3NmJR-HmBCokE20g76L10jFfHnNdpfCiwEM8WtQY2_7Idb14-ZYW2CafzudVHP37X_4Gkn9vShOWZhX2bJmCteDZV6tA2134mAZpkWKUQ",
+        "expiresAt": 1533582774231,
+        "username": "sondos"
+      }
+    }
+  }
+}
